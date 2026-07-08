@@ -1,0 +1,17 @@
+﻿AI Engineer
+We are looking for an AI Engineer to join our team. The ideal candidate
+has strong experience in Python, machine learning, and building
+production-grade applications.
+Requirements:
+- Strong proficiency in Python
+- Experience with machine learning frameworks (PyTorch or TensorFlow)
+- Familiarity with NLP and embeddings
+- Experience building REST APIs (FastAPI or Flask)
+- Experience with LLMs, RAG, and prompt engineering
+- Familiarity with Docker and cloud deployment (AWS/GCP/Azure)
+- Experience with Git and version control
+- Good understanding of data structures and algorithms
+Nice to have:
+- Experience with LangChain
+- Experience with vector databases
+- Familiarity with React for frontend integration

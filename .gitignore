@@ -1,0 +1,9 @@
+﻿.env
+venv/
+__pycache__/
+*.pyc
+output/*.csv
+.DS_Store
+resume-frontend/
+sample_resumes/
+output/
